@@ -30,4 +30,4 @@ Task Manager is a Python program designed to help users efficiently manage their
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Task-Manager.git
+   git clone https://github.com/AI-Tonny/Task-Manager.git
